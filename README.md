@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xtorseo
 - 👀 I’m interested in seo
-- 🌱 I’m currently learning seo optimization 
+- 🌱 I’m currently working seo optimization 
 - 💞️ I’m looking to collaborate on my work 
 - 📫 How to reach me ping here
 - 😄 Pronouns: ...
