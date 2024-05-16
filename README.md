@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtorseo&label=Profile%20views&color=0e75b6&style=flat" alt="xtorseo" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtorseo" alt="xtorseo" /></a> </p>
+
 - ⚡ Fun fact **lazy**
 
 ### Blogs posts
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/torseo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/torseo" height="30" width="40" /></a>
+<a href="https://dev.to/torseo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="torseo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25082021/tor-seo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25082021/tor-seo" height="30" width="40" /></a>
 </p>
 
