@@ -19,7 +19,7 @@
 - 🛠 **Tools of the trade:** Python, PHP, Playwright  
 - 🦾 **Field:** Hardcore **Black Hat SEO**  
 - 😎 **Hobbies:** Breaking SERPs, bypassing CAPTCHAs, dominating Google  
-- 🧪 **Side Quests:** Proxy networks, temp mail APIs, automation, scraping
+- 🧪 **Side Quests:** Proxy networks, automation, scraping
 
 ---
 
